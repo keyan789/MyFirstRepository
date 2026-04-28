@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyTest",
+            "request": "launch",
+            "mainClass": "com.example.MyTest",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "MyTest",
+            "request": "launch",
+            "mainClass": "MyTest",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
             "name": "Launch Java Program",
             "request": "launch",
             "mainClass": "com.example.App"
